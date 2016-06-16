@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSGame", "FPSGame\FPSGame\FPSGame.csproj", "{79AB9149-93AB-4B54-8A6B-F79381DD87FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSGameContent", "FPSGame\FPSGameContent\FPSGameContent.contentproj", "{E5F4E30F-08DE-4FDC-9456-CB3EF64FA939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AB9149-93AB-4B54-8A6B-F79381DD87FF}.Debug|x86.ActiveCfg = Debug|x86
+		{79AB9149-93AB-4B54-8A6B-F79381DD87FF}.Debug|x86.Build.0 = Debug|x86
+		{79AB9149-93AB-4B54-8A6B-F79381DD87FF}.Release|x86.ActiveCfg = Release|x86
+		{79AB9149-93AB-4B54-8A6B-F79381DD87FF}.Release|x86.Build.0 = Release|x86
+		{E5F4E30F-08DE-4FDC-9456-CB3EF64FA939}.Debug|x86.ActiveCfg = Debug|x86
+		{E5F4E30F-08DE-4FDC-9456-CB3EF64FA939}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
